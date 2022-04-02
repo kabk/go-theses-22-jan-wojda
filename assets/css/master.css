@@ -350,6 +350,12 @@ footer {
     }
     
 }
+.footer{
+    margin: 0 0;
+    width: max(5%, 90px);
+    max-width: 100%;
+    height: auto;  
+}
 
 
 
